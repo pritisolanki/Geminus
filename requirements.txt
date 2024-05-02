@@ -140,7 +140,7 @@ urllib3==2.0.7
 wcwidth==0.2.13
 webencodings==0.5.1
 websocket-client==1.6.1
-Werkzeug==2.2.3
+Werkzeug==2.3.8
 widgetsnbextension==4.0.9
 win-inet-pton @ file:///C:/ci/win_inet_pton_1605306165655/work
 wincertstore==0.2
