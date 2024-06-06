@@ -131,7 +131,7 @@ tokenizers==0.13.3
 torch==1.13.1
 torchaudio==0.13.1
 torchvision==0.14.1
-tornado==6.2
+tornado==6.4.1
 tqdm==4.66.2
 traitlets==5.9.0
 transformers==4.30.2
